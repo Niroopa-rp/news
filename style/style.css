@@ -1,0 +1,22 @@
+.news{
+    margin: 1%;
+    border: 2px solid lightgrey;
+    padding: 30px;
+    background-color: lightgray;
+}
+.head{
+    background-color: lightgray;
+}
+button{
+    width: 100%;
+    background-color: rgb(12, 146, 12);
+    color: white;
+}
+.outer{
+    margin: 1%;
+    border: 2px solid black;
+    
+}
+h1{
+    padding-left: 20px;
+}
